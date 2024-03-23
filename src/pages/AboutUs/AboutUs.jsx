@@ -24,36 +24,18 @@ const AboutUs = () => {
                 Our Mission
               </h3>
               <p className="text-gray-800 leading-relaxed">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat.
+              Embark on a journey with Raja-Rani Coaching, a beacon of innovation in the sewing and fashion design landscape. Located in the vibrant state of Gujarat, India, our institute is a testament to the pioneering spirit of its founders, Mr. Mohit and Mrs. Priya. 
               </p>
             </div>
           </div>
-          <div className="w-full md:w-1/2 px-4 mb-8">
-            <div className="bg-white rounded-lg shadow-lg p-8">
-              <h3 className="text-xl font-semibold text-green-600 mb-4">
-                Our Vision
-              </h3>
-              <p className="text-gray-800 leading-relaxed">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat.
-              </p>
-            </div>
-          </div>
+        
           <div className="w-full md:w-1/2 px-4 mb-8">
             <div className="bg-white rounded-lg shadow-lg p-8">
               <h3 className="text-xl font-semibold text-purple-600 mb-4">
                 Our Values
               </h3>
               <p className="text-gray-800 leading-relaxed">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat.
+              Whether you're a novice or an experienced stitcher, our welcoming community is here to inspire and support you. Join us in the world of stitching, where creativity knows no bounds, and where your unique style takes center stage. Embrace the art of stitching, and let's craft something extraordinary together."
               </p>
             </div>
           </div>
@@ -63,10 +45,8 @@ const AboutUs = () => {
                 Our Approach
               </h3>
               <p className="text-gray-800 leading-relaxed">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat.
+              Sharpen your precision for flawless stitches and seamless finishes, enhancing the quality of your sewing projects.
+              Learn efficient methods to speed up your sewing process without compromising on quality, saving time for more creativity
               </p>
             </div>
           </div>
