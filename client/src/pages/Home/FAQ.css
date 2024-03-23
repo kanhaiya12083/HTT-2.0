@@ -1,0 +1,25 @@
+.content {
+  /* color: black; */
+  max-height: 0;
+  overflow: hidden;
+  margin: 15px;
+  padding: auto;
+  font-size: large;
+  /* transition: 0.1s all cubic-bezier(0,1,0,1) ease-in; */
+  transition: 0.3s all ease-in;
+}
+.content.show {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  color: black;
+  height: auto;
+  font-display: black;
+  max-height: 1000px;
+  font-size: large;
+  margin: 15px;
+  padding: auto;
+  transition: 0.3s all ease-out;
+  /* border-color: blue; */
+  /* transition: 0.2s all  cubic-bezier(1,0,1,0) ease-out; */
+}
