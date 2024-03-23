@@ -65,11 +65,10 @@ export default function NavBar() {
             <Box>
               <NavButton to="/">Home</NavButton>
               <NavButton to="/about">About</NavButton>
-              <NavButton to="/events">Events</NavButton>
+              <NavButton to="/course">Courses</NavButton>
               <NavButton to="/gallery">Gallery</NavButton>
               <NavButton to="/team">Team</NavButton>
               <NavButton to="/contact">Contact</NavButton>
-              <NavButton to="/admin">Admin</NavButton>
             </Box>
           )}
         </Toolbar>
